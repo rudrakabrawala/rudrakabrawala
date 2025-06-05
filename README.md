@@ -92,6 +92,13 @@
 
 ---
 
+### 📄 My Portfolio / Resume
+
+- <a href="https://github.com/rudrakabrawala/rudrakabrawala/raw/main/rudra_kabrawala_cv.pdf" target="_blank"><img src="https://img.shields.io/badge/View%20Resume-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=E34F26" alt="Resume"></a>
+- [Direct PDF Download](https://github.com/rudrakabrawala/rudrakabrawala/raw/main/rudra_kabrawala_cv.pdf)
+
+---
+
 <p align="center">
   <b>Let's connect and build something amazing together!</b>
 </p>
