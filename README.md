@@ -9,10 +9,7 @@
 
 ---
 
-## 🌐 Portfolio Website
-
-Check out my latest projects and resume on my portfolio site:  
-**[https://rudra-kabrawala-portfolio-verse.lovable.app/](https://rudra-kabrawala-portfolio-verse.lovable.app/)**
+## 🌐 Portfolio Website - **[https://rudra-kabrawala-portfolio-verse.lovable.app/](https://rudra-kabrawala-portfolio-verse.lovable.app/)**
 
 ---
 
