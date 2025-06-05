@@ -9,6 +9,13 @@
 
 ---
 
+## 🌐 Portfolio Website
+
+Check out my latest projects and resume on my portfolio site:  
+**[https://rudra-kabrawala-portfolio-verse.lovable.app/](https://rudra-kabrawala-portfolio-verse.lovable.app/)**
+
+---
+
 ### 🚀 About Me
 
 - 🎓 **B.Tech CSE @ SVKM NMIMS Shirpur (2022–2026)**
